@@ -37,12 +37,57 @@ Grading
 
 The final grade will be determined by the following:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Quiz 1 | 30% |
-| Quiz 2 | 30% |
-| Term Report | 30% |
-| Homework (10 Homework Assignments) | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 2
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Term Report
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework (10 Homework Assignments)
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ###   
 Quizzes
@@ -75,14 +120,88 @@ Tissue engineering is such a broad field encompassing principles from so many di
 
 Following are other MIT subjects addressing tissue engineering in their curriculum and the course related to tissue engineering at Tsinghua University:
 
-| COURSE # | TOPICS | INSTRUCTORS |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**MIT Subjects Addressing Tissue Engineering**{{< /td-colspan >}} |||
-| 10.449 / BE.360 | Cell and Tissue Engineering | L. Griffith /  {{< br >}}H. Lodish |
-| [2.79J / 3.96J / BE.441J / HST.522J](/courses/20-441j-biomaterials-tissue-interactions-fall-2009) | Biomaterials-Tissue Interactions | M. Spector /  {{< br >}}I. Yannas |
-| [2.782J / 3.961J / BE.451J / HST.524J](/courses/2-782j-design-of-medical-devices-and-implants-spring-2006) | Design of Medical Devices / Implants | M. Spector /  {{< br >}}I. Yannas |
-| {{< td-colspan 3 >}}**Course Related to Tissue Engineering at Tsinghua University**{{< /td-colspan >}} |||
-| 70350132 | Biomaterials Science | F. Z. Cui /  {{< br >}}Q. L. Feng 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+COURSE #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+INSTRUCTORS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**MIT Subjects Addressing Tissue Engineering**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10.449 / BE.360
+{{< tdclose >}}
+{{< tdopen >}}
+Cell and Tissue Engineering
+{{< tdclose >}}
+{{< tdopen >}}
+L. Griffith /  
+H. Lodish
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[2.79J / 3.96J / BE.441J / HST.522J](/courses/20-441j-biomaterials-tissue-interactions-fall-2009)
+{{< tdclose >}}
+{{< tdopen >}}
+Biomaterials-Tissue Interactions
+{{< tdclose >}}
+{{< tdopen >}}
+M. Spector /  
+I. Yannas
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[2.782J / 3.961J / BE.451J / HST.524J](/courses/2-782j-design-of-medical-devices-and-implants-spring-2006)
+{{< tdclose >}}
+{{< tdopen >}}
+Design of Medical Devices / Implants
+{{< tdclose >}}
+{{< tdopen >}}
+M. Spector /  
+I. Yannas
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Course Related to Tissue Engineering at Tsinghua University**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+70350132
+{{< tdclose >}}
+{{< tdopen >}}
+Biomaterials Science
+{{< tdclose >}}
+{{< tdopen >}}
+F. Z. Cui /  
+Q. L. Feng
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 Acknowledgement
