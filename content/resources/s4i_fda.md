@@ -8,6 +8,7 @@ description: This resource includes information about federal agencies that regu
   internet access to FDA documents, tissue related documents and FDA approval process.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/8891e9e6e4d4906233973b760c6b1916_s4i_fda.pdf
 file_type: application/pdf
+parent_uid: 031d5a0a-e7b6-03ea-75cb-8736c706e99e
 resourcetype: Document
 title: s4i_fda.pdf
 uid: 8891e9e6-e4d4-9062-3397-3b760c6b1916

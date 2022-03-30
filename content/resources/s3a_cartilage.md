@@ -5,6 +5,7 @@ description: This resource includes information about Mechanobiology, Tissue Eng
   using self-assembling peptides and effects of compression.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-535-principles-and-practice-of-tissue-engineering-fall-2004/b8b0387dc918845469a487973b8d54ca_s3a_cartilage.pdf
 file_type: application/pdf
+parent_uid: 031d5a0a-e7b6-03ea-75cb-8736c706e99e
 resourcetype: Document
 title: s3a_cartilage.pdf
 uid: b8b0387d-c918-8454-69a4-87973b8d54ca
